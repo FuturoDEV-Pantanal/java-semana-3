@@ -1,3 +1,3 @@
-## Diagrama de classes construidos em aula 1
+## Diagrama de classes construídos em aula 1
 
 ![diagrama](../img/aula1_diagrama.png)
